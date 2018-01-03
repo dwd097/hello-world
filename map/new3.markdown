@@ -1,16 +1,6 @@
 
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+"Welcome to Jekyll!"
 date:   2018-01-03 12:12:03 +0000
-categories: jekyll update
 ---
-some txt
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Some txt
